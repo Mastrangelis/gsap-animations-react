@@ -17,7 +17,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
+4. 🔨[Deployment](#deployment)
+5. 🤸 [Quick Start](#quick-start)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -45,6 +46,10 @@ Playground for experimenting with gsap animations in react and tailwind css
 👉 **GSAP ScrollTrigger**: How to create animations that are triggered by the scroll position of the page.
 
 👉 **GSAP Text**: How to animate text such as titles and paragraphs.
+
+## <a name="deployment">🛠️ Deployment Playground</a>
+
+You can visit the deployed version [here](https://gsap-animations-react.vercel.app/)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
